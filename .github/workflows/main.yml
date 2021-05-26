@@ -17,4 +17,4 @@ jobs:
           BUILD_INFORMATION_OUTPUT_FILE='/version.conf' \
           PUSH_PUBLIC="True" \
           
-          ${{ secrets.EVOLENE_RUN_COMMAND }}
+          ${{ secrets.EVOLENE_LATEST_RUN_COMMAND }}
