@@ -1,7 +1,7 @@
 # Repo-supervisor
 
 [![Join the chat at https://gitter.im/repo-supervisor/Lobby](https://badges.gitter.im/repo-supervisor/Lobby.svg)](https://gitter.im/repo-supervisor/Lobby)
-[![Build Status](https://travis-ci.org/auth0/repo-supervisor.svg?branch=master)](https://travis-ci.org/auth0/repo-supervisor)
+[![Build Status](https://travis-ci.org/auth0/repo-supervisor.svg?branch=master)](https://travis-ci.org/auth0/repo-supervisor) ![Continous Integration](https://github.com/KTH/evolene/actions/workflows/main.yml/badge.svg)
 
 
 The Repo-supervisor is a tool that helps you to detect secrets and passwords in your code. It's as easy to install as adding a new webhook to your Github repository.
